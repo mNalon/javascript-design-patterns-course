@@ -1,6 +1,6 @@
 ## Single Responsibility
 
-It is a really simple principle that tells a class should have only a single primary responsibility and as consequence, it should have only one reason to change when something that is somehow related to its responsibility changes. 
+It is a really simple principle that tells **a class should have only a single primary responsibility** and as consequence, it should have only one reason to change when something that is somehow related to its responsibility changes. 
 
 In simple words, it is a bad idea to add more than one responsibility to a class.
 
