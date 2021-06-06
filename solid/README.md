@@ -5,7 +5,7 @@ SOLID are design principles used on object oriented programming languages.  It i
 - [**S**ingle Responsibility](/solid/single-responsibility/README.md)
 - [**O**pen Closed Principle](/solid/open-closed/README.md)
 - [**L**iskov Substitution](/solid/liskov-substitution/README.md)
-- [**I**nterface Segregation]()
+- [**I**nterface Segregation](/solid/interface-segregation/README.md)
 - [**D**ependence Inversion]()
 
 Even they are not considered design patterns, they are often referenced by them. 
